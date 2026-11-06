@@ -1,0 +1,6 @@
+{
+  "name": "BCNR Skill UP",
+  "description": "เว็บแอปพลิเคชันเพื่อการเรียนรู้และช่วยปฏิบัติการพยาบาลสำหรับนักศึกษาพยาบาล - ทบทวนก่อนทำ เช็กระหว่างทำ สะท้อนคิดหลังทำ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
